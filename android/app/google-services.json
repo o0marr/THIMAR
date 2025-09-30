@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942954729603",
+    "project_id": "thimar-amit",
+    "storage_bucket": "thimar-amit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942954729603:android:8ee1df60657699403e4bb6",
+        "android_client_info": {
+          "package_name": "com.thimar.thimar_amit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ-3_adgeB2fe4ox_FoOVREWv48836cDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
